@@ -1,9 +1,9 @@
 {
     "Books":[
-        {"title":"Hardy Boys Tower Treasure", "Author":"Franklin W Dixon","Publisher":"Grosset & Dunlap"},
-        {"title":"Hardy Boys The Shortwave Mystery", "Author":"Franklin W Dixon","Publisher":"Grosset & Dunlap"},
-        {"title":"Hardy Boys The Secret Warning", "Author":"Franklin W Dixon","Publisher":"Grosset & Dunlap"},
-        {"title":"Hardy Boys The Flickering Torch Mystery", "Author":"Franklin W Dixon","Publisher":"Grosset & Dunlap"},
-        {"title":"Hardy Boys the House on the Cliff", "Author":"Franklin W Dixon","Publisher":"Grosset & Dunlap"}
+        {"Id":1,"title":"Hardy Boys Tower Treasure", "Author":"Franklin W Dixon","Publisher":"Grosset & Dunlap","pic":"/tower.jpg"},
+        {"Id":2,"title":"Hardy Boys The Shortwave Mystery", "Author":"Franklin W Dixon","Publisher":"Grosset & Dunlap","pic":"/shortwave.jpg"},
+        {"Id":3,"title":"Hardy Boys The Secret Warning", "Author":"Franklin W Dixon","Publisher":"Grosset & Dunlap","pic":"/secret.jpg"},
+        {"Id":4,"title":"Hardy Boys The Flickering Torch Mystery", "Author":"Franklin W Dixon","Publisher":"Grosset & Dunlap","pic":"/flickeringtorch.jpg"},
+        {"Id":5,"title":"Hardy Boys the House on the Cliff", "Author":"Franklin W Dixon","Publisher":"Grosset & Dunlap","pic":"/cliff.jpg"}
     ]
     }

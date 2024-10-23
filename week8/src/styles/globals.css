@@ -2,26 +2,35 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+
+
+
+
+
+#heading{
+  text-align: center;
+  font-size: xx-large;
+  color: aqua;
+
+}
+#List0{
+  color: blue;
+  font-size: xx-large;
+}
+#List1{
+  color: blueviolet;
+  font-size: xx-large;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+#button{
+  color: red;
+  font-size: xx-large;
 }
-
-body {
-  color: var(--foreground);
-  background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+body{
+  text-align:center;
+  background-color: bisque;
+  flex: center;
 }
-
-@layer utilities {
-  .text-balance {
-    text-wrap: balance;
-  }
+#List2{
+  color: brown;
 }
